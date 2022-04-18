@@ -1,0 +1,3 @@
+class LoginErrorModel{
+  String error = "";
+}
